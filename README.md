@@ -1,2 +1,2 @@
 # Intro
-Hello! My name is Vinay and I'm interested in Python and C++
+Hello! My name is Vinay and I'm interested in Data Analytics, Python and C++
